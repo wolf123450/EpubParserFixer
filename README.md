@@ -130,7 +130,7 @@ The script:
 
 ## License
 
-[Add your license information here]
+MIT — see [LICENSE](LICENSE)
 
 ## Contributing
 
